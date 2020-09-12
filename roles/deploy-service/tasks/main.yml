@@ -23,7 +23,7 @@
 - name: Deploy artifact
   maven_artifact:
     group_id: org.springframework.boot
-    artifact_id: spring-boot-starter-parent
+    artifact_id: spring-boot-starter-parent-noclash
     version: "{{ release_version }}"
     repository_url: https://nexus.cb-demos.io/repository/maven-releases/
     extension: jar
