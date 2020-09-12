@@ -1,8 +1,8 @@
 ---
-gcp_project: tjohnson
+gcp_project: emartinez
 gcp_cred_kind: serviceaccount
 gcp_cred_file: ~/.gcloud/localhost.json
-target_user: tjohnson
+target_user: emartinez
 nexus_user: empty
 nexus_password: empty
 release_version: 0.0.1
